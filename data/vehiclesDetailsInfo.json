@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+
+    "infoA": {
+      "name": "BIKE",
+      "img": "https://i.ibb.co/smV4Wp5/Frame.png",
+      "rideCost": 37,
+      "people": 2
+    },
+    "infoB": {
+      "name": "BIKE",
+      "img": "https://i.ibb.co/smV4Wp5/Frame.png",
+      "rideCost": 50,
+      "people": 2
+    },
+    "infoC": {
+      "name": "BIKE",
+      "img": "https://i.ibb.co/smV4Wp5/Frame.png",
+      "rideCost": 30,
+      "people": 2
+    }
+  },
+  {
+    "id": 2,
+
+    "infoA": {
+      "name": "BUS",
+      "img": "https://i.ibb.co/HtS1zvR/Frame-1.png",
+      "rideCost": 15,
+      "people": 20
+    },
+    "infoB": {
+      "name": "BUS",
+      "img": "https://i.ibb.co/HtS1zvR/Frame-1.png",
+      "rideCost": 10,
+      "people": 20
+    },
+    "infoC": {
+      "name": "BUS",
+      "img": "https://i.ibb.co/HtS1zvR/Frame-1.png",
+      "rideCost": 5,
+      "people": 15
+    }
+  },
+  {
+    "id": 3,
+
+    "infoA": {
+      "name": "CAR",
+      "img": "https://i.ibb.co/WP2wB7n/Frame-2.png",
+      "rideCost": 24,
+      "people": 4
+    },
+    "infoB": {
+      "name": "CAR",
+      "img": "https://i.ibb.co/WP2wB7n/Frame-2.png",
+      "rideCost": 38,
+      "people": 5
+    },
+    "infoC": {
+      "name": "CAR",
+      "img": "https://i.ibb.co/WP2wB7n/Frame-2.png",
+      "rideCost": 30,
+      "people": 6
+    }
+  },
+
+  {
+    "id": 4,
+
+    "infoA": {
+      "name": "TRAIN",
+      "img": "https://i.ibb.co/jMDVTFm/Group.png",
+      "rideCost": 3,
+      "people": 50
+    },
+    "infoB": {
+      "name": "TRAIN",
+      "img": "https://i.ibb.co/jMDVTFm/Group.png",
+      "rideCost": 5,
+      "people": 60
+    },
+    "infoC": {
+      "name": "TRAIN",
+      "img": "https://i.ibb.co/jMDVTFm/Group.png",
+      "rideCost": 8,
+      "people": 70
+    }
+  }
+]
